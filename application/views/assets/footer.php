@@ -1,0 +1,1 @@
+<script src="<?= base_url('') ?>assets1/paper-panel-all-files/paper-panel/production-version/assets/js/app.js"></script>
